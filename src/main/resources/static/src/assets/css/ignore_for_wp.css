@@ -1,0 +1,473 @@
+/*
+ Theme Name: Bilogica
+ Theme URI: https://psdtowpwork.com/html/bilogica/
+ Author: nsstheme
+ Author URI: https://themeforest.net/user/nsstheme
+ Description: Bilogica - Food Store Responsive HTML5 Template
+ Version: 1.0
+ License:
+ License URI:
+ */
+.categorySection01{
+	position: relative;
+	overflow: hidden;
+	padding: 110px 0;
+	background: #f9f4ee;
+}
+.categorySection01 .secDesc{
+	font-weight: 700;
+}
+.offerSection01{
+	position: relative;
+	padding: 2px 0 122px;
+	background: #f9f4ee;
+}
+.productSection01{
+	position: relative;
+	overflow: hidden;
+	padding: 110px 0;
+}
+.productSection01 .secDesc{
+	margin-bottom: 30px;
+}
+.blogSection01{
+	position: relative;
+	padding: 90px 0 150px;
+}
+.secDesc.mb55{
+	margin-bottom: 55px;
+}
+.offerSection02{
+	position: relative;
+	padding: 122px 0 122px;
+	background: url(../../../public/assets/images/bg/1.png) no-repeat left bottom #f9f9f9;
+}
+.offerSection02 .secTitle{
+	font-size: 48px;
+	line-height: 58px;
+	margin-bottom: 38px;
+}
+.productSection02{
+	position: relative;
+	padding: 110px 0 80px;
+}
+.subscribeSection01{
+	position: relative;
+	padding: 0 0 100px;
+}
+.ctaLookbook{
+	position: relative;
+	background: url(../../../public/assets/images/bg/1.jpg) no-repeat center center / cover #fefefe;
+	border-radius: 10px;
+	padding: 75px 20px 157px 160px;
+}
+.ctaLookbook .secTitle{
+	color: #5c5d5f;
+	font-size: 36px;
+	line-height: 46px;
+	margin: 0 0 22px;
+}
+.ctaLookbook img{
+	position: absolute;
+	right: 25px;
+	bottom: 26px;
+}
+.subsribeForm{
+	position: relative;
+	background: #4fc396;
+	border-radius: 10px;
+	padding: 38px 35px 60px;
+}
+.subsribeForm img{
+	position: absolute;
+	right: 15px;
+	bottom: 14px;
+}
+.subsribeForm .secTitle{
+	font-size: 24px;
+	line-height: 34px;
+	color: #fff;
+	margin: 0 0 1px;
+}
+.subsribeForm p{
+	color: #fff;
+	margin: 0 0 13px;
+}
+.subsribeForm .mc4wp-form input[type="email"]{
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	color: #cecece;
+	font-size: 14px;
+}
+.subsribeForm .mc4wp-form input[type="email"]::-moz-placeholder{
+    color: #cecece;
+    opacity: 1;
+}
+.subsribeForm .mc4wp-form input[type="email"]::-ms-input-placeholder{
+    color: #cecece;
+    opacity: 1;
+}
+.subsribeForm .mc4wp-form input[type="email"]::-webkit-input-placeholder{
+    color: #cecece;
+    opacity: 1;
+}
+.testimonialSection01{
+	position: relative;
+	overflow: hidden;
+	padding: 38px 0 100px;
+}
+.testimonialSection01 .secTitle{
+	font-size: 36px;
+	line-height: 45px;
+}
+.testimonialSection01 .secDesc{
+	margin: 0 0 76px;
+}
+.productSection03{
+	position: relative;
+	padding: 0 0 0;
+}
+.slider-section-02{
+	position: relative;
+	padding: 48px 0 50px;
+}
+.serviceSection01{
+	position: relative;
+	padding: 58px 0 120px;
+}
+.offerSection03{
+	position: relative;
+	padding: 0 0 120px;
+}
+.offerSection03 .lbo1hm2{
+	background: url(../../../public/assets/images/home2/1.png) no-repeat center center / cover #fff;
+	padding-left: 260px;
+	padding-top: 24px;
+	padding-bottom: 23px;
+}
+.offerSection03 .lookBookItem h4{
+	margin-bottom: 2px;
+}
+.offerSection03 .lbo1hm2 p{
+	margin-bottom: 10px;
+}
+.offerSection03 .lbo1hm2 .off{
+	position: relative;
+	right: 0;
+	top: 0;
+	margin: 0 0 7px;
+}
+.offerSection03 .lookBookItem.lb02{
+	padding-top: 29px;
+	background: url(../../../public/assets/images/home2/2.png) no-repeat center center / cover #fff;
+	padding-bottom: 54px;
+}
+.productSection04{
+	position: relative;
+	padding: 40px 0 0;
+}
+.blogSection02{
+	position: relative;
+	padding: 80px 0 85px;
+}
+.productSection05{
+	position: relative;
+	padding: 0 0 110px;
+}
+.ctaPro{
+	position: relative;
+	background: url(../../../public/assets/images/bg/5.png) no-repeat center bottom #F9F9F9;
+	border-radius: 10px;
+	text-align: center;
+	padding: 82px 0 73px;
+}
+.ctaPro .subTitle{
+	font-size: 18px;
+	margin-bottom: 13px;
+}
+.ctaPro .secTitle{
+	margin: 0 30px 28px;
+}
+.ctaPro .countdown_dashboard02.commoncount .countdown-section{
+	margin-right: 33px;
+}
+.ctaPro .countdown_dashboard02.commoncount .countdown-section:last-child{
+	margin-right: 0;
+}
+.ctaPro .countdown_dashboard02.commoncount .countdown-section .countdown-amount{
+	font-size: 30px;
+	margin-bottom: 16px;
+}
+.ctaPro .countdown_dashboard02.commoncount .countdown-section .countdown-amount:after{
+	font-size: 30px;
+	right: -20px;
+}
+.ctaPro .countdown_dashboard02.commoncount .countdown-section .countdown-period{
+	font-size: 14px;
+}
+.ctaPro .countdown_dashboard02.commoncount{
+	margin-bottom: 35px;
+}
+
+.productSection06{
+	position: relative;
+	padding: 110px 0 0;
+}
+.prHead .secTitle{
+	margin-bottom: 3px;
+}
+.prHead .secDesc{
+	margin-bottom: 36px;
+}
+.categorySection02{
+	background: #f9f9f9;
+	padding: 120px 0;
+	position: relative;
+}
+.categorySection02 .secTitle{
+	margin-bottom: 10px;
+}
+.categorySection02 .secDesc{
+	margin-bottom: 51px;
+}
+.cartSection01{
+	padding: 91px 0 296px;
+	background: url(../../../public/assets/images/bg/3.jpg) no-repeat center center / cover;
+}
+.cartSection01 .subTitle{
+	margin-bottom: 18px;
+}
+.cartSection01 .secTitle{
+	margin-bottom: 30px;
+}
+.cartSection01 .cartbtn {
+    height: 45px;
+    background: #4fc396;
+    line-height: 46px;
+    border-radius: 30px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 0 21px;
+}
+.cartSection01 .cartbtn i {
+    font-size: 19px;
+    position: relative;
+    top: 2px;
+    margin-right: 9px;
+}
+.cartSection01 .cartbtn:hover {
+    background: var(--theme-color);
+    color: #fff;
+}
+.offerSection04{
+	position: relative;
+    background: url(../../../public/assets/images/bg/4.jpg) no-repeat bottom center;
+	padding: 153px 0 450px;
+}
+.offerSection04 .secTitle{
+	font-size: 60px;
+	line-height: 70px;
+	color: #000;
+	margin: -18px 0 25px;
+}
+.offerSection04 .secDesc{
+	margin: 0 85px 0 0;
+}
+.offerSection04 .lbo1hm2 {
+    background: url(../../../public/assets/images/home2/1.png) no-repeat center center / cover #fff;
+    padding-left: 260px;
+    padding-top: 24px;
+    padding-bottom: 23px;
+}
+.offerSection04 .lbo1hm2 .off {
+    position: relative;
+    right: 0;
+    top: 0;
+    margin: 0 0 7px;
+}
+.offerSection04 .lookBookItem h4 {
+    margin-bottom: 2px;
+}
+.offerSection04 .lbo1hm2 p {
+    margin-bottom: 10px;
+}
+.serviceSection02{
+	position: relative;
+	padding: 0 0 0;
+    background: url(../../../public/assets/images/bg/5.jpg) no-repeat left top;
+}
+.serviceSection02 .col-lg-7 {
+    -ms-flex: 0 0 53%;
+    flex: 0 0 53%;
+    max-width: 53%;
+}
+.serviceSection02 .col-lg-5 {
+    -ms-flex: 0 0 47%;
+    flex: 0 0 47%;
+    max-width: 47%;
+}
+.ctaCon{
+	position: relative;
+	max-width: 480px;
+	padding: 375px 60px 0 0;
+	float: right;
+}
+.ctaCon .subTitle{
+	color: #5c5d5f;
+	margin-bottom: 11px;
+}
+.ctaCon .secTitle{
+	margin-bottom: 22px;
+}
+.ctaCon .cartbtn {
+    height: 45px;
+    background: #4fc396;
+    line-height: 46px;
+    border-radius: 30px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 0 21px;
+}
+.ctaCon .cartbtn i {
+    font-size: 19px;
+    position: relative;
+    top: 2px;
+    margin-right: 9px;
+}
+.ctaCon .cartbtn:hover {
+    background: var(--theme-color);
+    color: #fff;
+}
+.serBoxArea{
+	position: relative;
+	background: #e8eee4;
+	padding: 113px 52px 109px;
+}
+.serBoxArea .secTitle{
+	margin: 0 0 68px;
+}
+.pdh02{
+	position: relative;
+	padding: ;
+}
+.pdh02 .bilogicaTab{
+	margin: 62px 0 50px;
+	justify-content: flex-end;
+}
+.pdh02 .bilogicaTab li{
+	margin: 0 0 0 32px;
+}
+.pdh02 .bilogicaTab li:first-child{
+	margin-left: 0;
+}
+.teamSecion01{
+	position: relative;
+	overflow: hidden;
+	padding: 120px 0 16px;
+}
+.testimonialSection02{
+	position: relative;
+	padding: 145px 0 0;
+}
+.ps06{
+	position: relative;
+	padding: 100px 0 62px;
+	background: url(../../../public/assets/images/bg/4.png) no-repeat 47% bottom;
+}
+.ps06 .mbn{
+	margin-bottom: 48px;
+}
+
+
+
+@media (min-width: 1200px) and (max-width: 1700px){
+	.serBoxArea{
+		padding: 80px 40px;
+	}
+	.serBoxArea .secTitle{
+		margin-bottom: 55px;
+	}
+}
+@media (max-width: 1199px){
+	.offerSection04 .secDesc{
+		margin: 0;
+	}
+	.offerSection04 .secTitle {
+	    font-size: 54px;
+	    line-height: 65px;
+	    margin:0 0 25px;
+	}
+	.offerSection04 .lbo1hm2{
+		padding-left: 120px;
+		background-position: right center;
+	}
+	.serviceSection02 .col-lg-5,
+	.serviceSection02 .col-lg-7{
+	    -ms-flex: 0 0 100%;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	}
+	.ctaCon{
+		padding: 220px 0px 120px 115px;
+	}
+	.mdNone{
+		display: none;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.ctaLookbook{
+		padding-left: 60px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.ctaLookbook{
+		padding-left: 40px;
+	}
+	.subsribeForm{
+		padding-left: 25px;
+		padding-right: 20px;
+	}
+	.offerSection02 .secTitle{
+		font-size: 40px;
+    	line-height: 52px;
+	}
+}
+@media (max-width: 767px){
+	.serBoxArea{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.ctaCon {
+	    padding: 120px 25px;
+	}
+	.offerSection04 .secTitle {
+	    font-size: 36px;
+	    line-height: 50px;
+	    margin: 0 0 25px;
+	}
+	.offerSection04 .secDesc{
+		margin-bottom: 40px;
+	}
+	.ctaLookbook {
+	    padding: 50px 20px;
+	    margin: 0 0 30px;
+	}
+	.ctaLookbook img {
+	    position: relative;
+	    right: 0;
+	    bottom: 0;
+	    max-width: 100%;
+	}
+	.subsribeForm{
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+}
+

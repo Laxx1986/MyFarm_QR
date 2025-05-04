@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?qjumge');
+  src:  url('../fonts/icomoon.eot?qjumge#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?qjumge') format('truetype'),
+    url('../fonts/icomoon.woff?qjumge') format('woff'),
+    url('../fonts/icomoon.svg?qjumge#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-back:before {
+  content: "\e906";
+}
+.icon-arrow-forward:before {
+  content: "\e908";
+}
+.icon-arrow-right:before {
+  content: "\e909";
+}
+.icon-arrow-right2:before {
+  content: "\e90a";
+}
+.icon-compare:before {
+  content: "\e90b";
+}
+.icon-address-book:before {
+  content: "\e90d";
+}
+.icon-headphones-alt:before {
+  content: "\e90e";
+}
+.icon-pencil-alt:before {
+  content: "\e90f";
+}
+.icon-user-alt:before {
+  content: "\e910";
+}
+.icon-material-web-asset:before {
+  content: "\e913";
+}
+.icon-simple-email:before {
+  content: "\e914";
+}
+.icon-instagram:before {
+  content: "\e915";
+}
+.icon-mail:before {
+  content: "\e916";
+}
+.icon-menu:before {
+  content: "\e917";
+}
+.icon-mobile-alt:before {
+  content: "\e918";
+}
+.icon-quote:before {
+  content: "\e919";
+}
+.icon-star:before {
+  content: "\e91b";
+}
+.icon-Vector-Smart-Object:before {
+  content: "\e91f";
+}
+.icon-Vector-Smart-Object1:before {
+  content: "\e920";
+}
+.icon-Vector-Smart-Object2:before {
+  content: "\e921";
+}
+.icon-whatsapp:before {
+  content: "\e922";
+}
+.icon-wishlist:before {
+  content: "\e923";
+}
+
+@font-face {
+  font-family: 'bilogica';
+  src:  url('../fonts/bilogica.eot?2m6uvc');
+  src:  url('../fonts/bilogica.eot?2m6uvc#iefix') format('embedded-opentype'),
+    url('../fonts/bilogica.ttf?2m6uvc') format('truetype'),
+    url('../fonts/bilogica.woff?2m6uvc') format('woff'),
+    url('../fonts/bilogica.svg?2m6uvc#bilogica') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="bilogica-"], [class*=" bilogica-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'bilogica';
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bilogica-cart:before {
+  content: "\e90a";
+}
+.bilogica-Play-store:before {
+  content: "\e900";
+}
+.bilogica-Positive:before {
+  content: "\e901";
+}
+.bilogica-Return:before {
+  content: "\e902";
+}
+.bilogica-Support:before {
+  content: "\e903";
+}
+.bilogica-View:before {
+  content: "\e904";
+}
+.bilogica-Wishlist:before {
+  content: "\e905";
+}
+.bilogica-Apple:before {
+  content: "\e906";
+}
+.bilogica-Compare:before {
+  content: "\e907";
+}
+.bilogica-Delivery:before {
+  content: "\e908";
+}
+.bilogica-Payment:before {
+  content: "\e909";
+}
