@@ -1,9 +1,11 @@
 package com.myfarm_qr.model;
 
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import org.hibernate.annotations.GenericGenerator;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -14,10 +16,15 @@ import java.util.UUID;
 @Getter
 @Setter
 @NoArgsConstructor
+@AllArgsConstructor
 public class Garden {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(generator = "UUID")
+    @GenericGenerator(
+            name = "UUID",
+            strategy = "org.hibernate.id.UUIDGenerator"
+    )
     private UUID id;
 
     private String name;
@@ -28,5 +35,11 @@ public class Garden {
             joinColumns = @JoinColumn(name = "garden_id"),
             inverseJoinColumns = @JoinColumn(name = "vegetable_id")
     )
+    @com.fasterxml.jackson.annotation.JsonManagedReference
     private Set<Vegetable> vegetables = new HashSet<>();
+
+
+    public Garden(String name) {
+        this.name = name;
+    }
 }
